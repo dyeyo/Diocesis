@@ -88,17 +88,17 @@
     <!-- Start WOWSlider.com BODY section --> <!-- add to the <body> of your page -->
     <header id="home" class=" slide">
 
-<<div id="wowslider-container1">
+<div id="wowslider-container1">
 <div class="ws_images"><ul>
     <li><img src="data1/images/lajitas.jpg" alt="" title="" id="wows1_0"/></li>
-    <li><a href="http://www.rcnipiales.com.co/"><img src="data1/images/medioss.jpg" alt="" title="" id="wows1_1"/></a></li>
+    <li><a href="http://wowslider.net"><img src="data1/images/medioss.jpg" alt="slider html" title="" id="wows1_1"/></a></li>
     <li><img src="data1/images/pagina.jpg" alt="" title="" id="wows1_2"/></li>
   </ul></div>
   <div class="ws_bullets"><div>
     <a href="#" title=""><span><img src="data1/tooltips/lajitas.jpg" alt=""/>1</span></a>
     <a href="#" title=""><span><img src="data1/tooltips/medioss.jpg" alt=""/>2</span></a>
     <a href="#" title=""><span><img src="data1/tooltips/pagina.jpg" alt=""/>3</span></a>
-  </div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">bootstrap slideshow</a> by WOWSlider.com v8.8</div>
+  </div></div><div class="ws_script" style="position:absolute;left:-99%"><a href="http://wowslider.net">bootstrap image slider</a> by WOWSlider.com v8.8</div>
 <div class="ws_shadow"></div>
 
       <div class="intro-scroller">
