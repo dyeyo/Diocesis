@@ -17,6 +17,9 @@ h1, h2, h3, h4,h5{
  #bloghome{
  	 background: #0078b096;
  }
+#imgBanner{
+	height: 70vh !important;
+}
  .textoNoticias{
  	color: #ffffff;
  }
