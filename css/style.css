@@ -35,7 +35,11 @@ h1, h2, h3, h4,h5{
 }
 #imgBanner{
  	width: 100% !important;
+<<<<<<< HEAD
      height:70vh  !important;
+=======
+     height:65vh  !important;
+>>>>>>> aeb8f78917543350bcb1c168a0a64a998c5f1f6d
     border-radius: 0 !important;
 }
 .imgNovedad{
@@ -171,7 +175,11 @@ body{
     }
     #imgBanner{
         width: 100% !important;
+<<<<<<< HEAD
         height: auto  !important; 
+=======
+        height: auto  !important;
+>>>>>>> aeb8f78917543350bcb1c168a0a64a998c5f1f6d
     }
     .colimgNavDer{
         display: none;
